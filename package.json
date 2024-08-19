@@ -1,0 +1,22 @@
+{
+  "name": "dvd-pricing-calculator",
+  "version": "1.0.0",
+  "description": "A Node.js application to calculate total price of DVD purchases including discounts for the Back to the Future series.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majdibom/dvd-pricing-calculator.git"
+  },
+  "keywords": [],
+  "author": "Majdi Ben OTHMAN",
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/majdibom/dvd-pricing-calculator/issues"
+  },
+  "homepage": "https://github.com/majdibom/dvd-pricing-calculator#readme"
+}
