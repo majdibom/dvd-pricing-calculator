@@ -14,9 +14,14 @@
   "keywords": [],
   "author": "Majdi Ben OTHMAN",
   "license": "MIT",
-  "dependencies": {},
   "bugs": {
     "url": "https://github.com/majdibom/dvd-pricing-calculator/issues"
   },
-  "homepage": "https://github.com/majdibom/dvd-pricing-calculator#readme"
+  "homepage": "https://github.com/majdibom/dvd-pricing-calculator#readme",
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3"
+  }
 }
